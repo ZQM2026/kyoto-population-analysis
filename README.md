@@ -9,13 +9,13 @@
 「Kyoto Male vs Female Population」のグラフから、2019年から2026年にかけて、京都市では女性人口が男性人口を上回っていることが分かります。
 また、男女ともに似たような減少傾向が見られることから、特定の性別だけではなく、京都市全体で人口減少が進んでいることが考えられます。
 京都市全体の人口減少は、高齢化、少子化、そして人口流出など、複数の社会的要因が重なった結果である可能性があります。
- ##  ![Population Change](images/population_change_bar_chart.png)
+ ## ![Population Change](images/population_change_bar_chart.png)
 「Annual Population Change in Kyoto」のグラフから、2020年から2026年にかけて、京都市では人口減少が続いていることが分かります。
 特に2022年には人口減少幅が最も大きくなっています。
 要因の一つとして、新型コロナウイルス感染症の影響により、高齢者を中心とした死亡者数が増加した可能性が考えられます。
 また、このような人口減少傾向は、京都市における高齢化や少子化などの社会問題とも関連している可能性があります。
 人口減少は2023年以降も続いていることから、一時的な要因だけではなく、少子高齢化や若年層の人口流出といった長期的な社会問題も関係している可能性があります。
- ##  ![Gender Composition](images/gender_composition_2026.png) 
+ ## ![Gender Composition](images/gender_composition_2026.png) 
 「Population Composition by Gender」のグラフから、2026年時点では、京都市の女性人口が男性人口をやや上回っていることが分かります。
 一方で、男女比には極端な差は見られず、比較的安定した人口構成であると考えられます。
 
