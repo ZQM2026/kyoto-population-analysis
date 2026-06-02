@@ -1,5 +1,5 @@
 # kyoto-population-analysis
-# プロジェクト概要
+## プロジェクト概要
 本プロジェクトでは、公開されている人口統計データを用いて、京都市の人口動態を分析しました。
 データ分析および可視化を通じて、人口推移、男女構成、年間人口増減の変化を把握することを目的としています。
 ## 使用技術
@@ -8,7 +8,7 @@
 3.Matplotlib
 4.Jupyter Notebook
 5.GitHub
-# プロジェクト構成
+## プロジェクト構成
 data/kyoto.xlsx
 
 notebooks/kyoto_population_analysis.ipynb
@@ -18,7 +18,7 @@ images/
 2.population_change_bar_chart.png
 3.gender_composition_2026.png
 4.male_female_population.png
-# 人口減少の背景要因として考えられるもの
+## 人口減少の背景要因として考えられるもの
 1.高齢化の進行 2.少子化 3.大都市圏への人口流出 4.新型コロナウイルスによる観光業や雇用への影響
 
 ## ![Population Trend](images/population_chart.png) 
@@ -38,5 +38,5 @@ images/
 「Population Composition by Gender」のグラフから、2026年時点では、京都市の女性人口が男性人口をやや上回っていることが分かります。
 一方で、男女比には極端な差は見られず、比較的安定した人口構成であると考えられます。
 
-# 分析上の限界
+## 分析上の限界
 本分析は主に人口統計データに基づいており、年齢別人口、経済状況、人口移動などの詳細データは含まれていません。そのため、一部の考察については推測の段階にとどまっており、今後さらに詳細なデータによる検証が必要です。
