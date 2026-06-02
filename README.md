@@ -2,7 +2,7 @@
 1.高齢化の進行 2.少子化 3.大都市圏への人口流出 4.新型コロナウイルスによる観光業や雇用への影響
 
 # kyoto-population-analysis
-！「Kyoto Population Change」（images/population_chart.png）
+## Population Trend ![Population Trend](images/population_chart.png) ## Annual Population Change ![Population Change](images/population_change_bar_chart.png) ## Gender Composition ![Gender Composition](images/gender_composition_2026.png) 
 「Kyoto Population Change」のグラフから、京都の人口は、2019年から2026年にかけて緩やかな減少傾向を示しています。
 特に2020年から2022年にかけて人口減少が顕著に見られました。要因としては、京都における高齢化の進行や、新型コロナウイルス感染症の影響により、高齢者の死亡率が上昇した可能性が考えられます。
 
