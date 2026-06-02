@@ -3,11 +3,11 @@
 本プロジェクトでは、公開されている人口統計データを用いて、京都市の人口動態を分析しました。
 データ分析および可視化を通じて、人口推移、男女構成、年間人口増減の変化を把握することを目的としています。
 # 使用技術
-Python
-Pandas
-Matplotlib
-Jupyter Notebook
-GitHub
+1.Python
+2.Pandas
+3.Matplotlib
+4.Jupyter Notebook
+5.GitHub
 # プロジェクト構成
 data/kyoto.xlsx
 
