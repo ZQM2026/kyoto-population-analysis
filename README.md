@@ -14,9 +14,10 @@ data/kyoto.xlsx
 notebooks/kyoto_population_analysis.ipynb
 
 images/
-population_chart.png
-population_change_bar_chart.png
-gender_composition_2026.png
+1.population_chart.png
+2.population_change_bar_chart.png
+3.gender_composition_2026.png
+4.male_female_population.png
 # 人口減少の背景要因として考えられるもの
 1.高齢化の進行 2.少子化 3.大都市圏への人口流出 4.新型コロナウイルスによる観光業や雇用への影響
 
